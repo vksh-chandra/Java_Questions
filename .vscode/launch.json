@@ -1,0 +1,1113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch atm",
+            "request": "launch",
+            "mainClass": "Notes.atm",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch TopologicalSort",
+            "request": "launch",
+            "mainClass": "Graph.TopologicalSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch JosephusProb",
+            "request": "launch",
+            "mainClass": "BitManipulation.JosephusProb",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Radiation",
+            "request": "launch",
+            "mainClass": "CodeVita.Radiation",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch SnakeLadder",
+            "request": "launch",
+            "mainClass": "CodeVita.SnakeLadder",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncryptionDec",
+            "request": "launch",
+            "mainClass": "CodeVita.EncryptionDec",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch node",
+            "request": "launch",
+            "mainClass": "node",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch WaterDistribution",
+            "request": "launch",
+            "mainClass": "Graph.WaterDistribution",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityQueue1",
+            "request": "launch",
+            "mainClass": "PriorityQueue1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BFS01",
+            "request": "launch",
+            "mainClass": "Graph.BFS01",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasPathBFS",
+            "request": "launch",
+            "mainClass": "Graph.HasPathBFS",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch HasPath",
+            "request": "launch",
+            "mainClass": "Graph.HasPath",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch COVID",
+            "request": "launch",
+            "mainClass": "COVID",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomeClass",
+            "request": "launch",
+            "mainClass": "SomeClass",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Account",
+            "request": "launch",
+            "mainClass": "Account",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DebitException",
+            "request": "launch",
+            "mainClass": "DebitException",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch GUI3",
+            "request": "launch",
+            "mainClass": "GUI3",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch GUI2",
+            "request": "launch",
+            "mainClass": "GUI2",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch th",
+            "request": "launch",
+            "mainClass": "th",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSBmask",
+            "request": "launch",
+            "mainClass": "BitManipulation.RSBmask",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gui",
+            "request": "launch",
+            "mainClass": "Gui",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaApplication1",
+            "request": "launch",
+            "mainClass": "JavaApplication1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueensBit",
+            "request": "launch",
+            "mainClass": "BitManipulation.NQueensBit",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEvenSort",
+            "request": "launch",
+            "mainClass": "OddEvenSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch stat",
+            "request": "launch",
+            "mainClass": "stat",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Point",
+            "request": "launch",
+            "mainClass": "Point",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPrintPathMinJump",
+            "request": "launch",
+            "mainClass": "DP.DPPrintPathMinJump",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch KernighansAlgo",
+            "request": "launch",
+            "mainClass": "BitManipulation.KernighansAlgo",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSBmask",
+            "request": "launch",
+            "mainClass": "RSBmask",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructBTree2",
+            "request": "launch",
+            "mainClass": "ConstructBTree2",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructBTree1",
+            "request": "launch",
+            "mainClass": "ConstructBTree1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsBST",
+            "request": "launch",
+            "mainClass": "IsBST",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostorderIterative2",
+            "request": "launch",
+            "mainClass": "PostorderIterative2",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostorderIterative",
+            "request": "launch",
+            "mainClass": "PostorderIterative",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PreorderIterative",
+            "request": "launch",
+            "mainClass": "PreorderIterative",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch InorderIterative",
+            "request": "launch",
+            "mainClass": "InorderIterative",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintPreHM",
+            "request": "launch",
+            "mainClass": "PrintPreHM",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostorderFromInorderAndPreorderHashMap",
+            "request": "launch",
+            "mainClass": "PostorderFromInorderAndPreorderHashMap",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeTravStack",
+            "request": "launch",
+            "mainClass": "TreeTravStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PstordrFrmInNpre",
+            "request": "launch",
+            "mainClass": "PstordrFrmInNpre",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sheets",
+            "request": "launch",
+            "mainClass": "Sheets",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch AVLTree",
+            "request": "launch",
+            "mainClass": "AVLTree",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalancedTree",
+            "request": "launch",
+            "mainClass": "BalancedTree",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeapSort",
+            "request": "launch",
+            "mainClass": "Sorting.HeapSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadixSort",
+            "request": "launch",
+            "mainClass": "Sorting.RadixSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountingSort",
+            "request": "launch",
+            "mainClass": "Sorting.CountingSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayL",
+            "request": "launch",
+            "mainClass": "ArrayL",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellNumberDP",
+            "request": "launch",
+            "mainClass": "BellNumberDP",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CP",
+            "request": "launch",
+            "mainClass": "CP",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularLL",
+            "request": "launch",
+            "mainClass": "CircularLL",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQueue",
+            "request": "launch",
+            "mainClass": "CircularQueue",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodeForce",
+            "request": "launch",
+            "mainClass": "CodeForce",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DLL",
+            "request": "launch",
+            "mainClass": "DLL",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DP01Knapsack",
+            "request": "launch",
+            "mainClass": "DP.DP01Knapsack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPArrangeBuilding",
+            "request": "launch",
+            "mainClass": "DP.DPArrangeBuilding",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPBinomialCoeff",
+            "request": "launch",
+            "mainClass": "DP.DPBinomialCoeff",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCatlanNumber",
+            "request": "launch",
+            "mainClass": "DP.DPCatlanNumber",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPClimbMinMove",
+            "request": "launch",
+            "mainClass": "DP.DPClimbMinMove",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPClimbStair",
+            "request": "launch",
+            "mainClass": "DP.DPClimbStair",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPClimbVarSta",
+            "request": "launch",
+            "mainClass": "DP.DPClimbVarSta",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCoinChangeComb",
+            "request": "launch",
+            "mainClass": "DP.DPCoinChangeComb",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCoinChangePer",
+            "request": "launch",
+            "mainClass": "DP.DPCoinChangePer",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCountBinaryString",
+            "request": "launch",
+            "mainClass": "DP.DPCountBinaryString",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCountEncoding",
+            "request": "launch",
+            "mainClass": "DP.DPCountEncoding",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPCountSubsequence",
+            "request": "launch",
+            "mainClass": "DP.DPCountSubsequence",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPFact",
+            "request": "launch",
+            "mainClass": "DP.DPFact",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPFractKnapscak",
+            "request": "launch",
+            "mainClass": "DP.DPFractKnapscak",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPFriendsPairing",
+            "request": "launch",
+            "mainClass": "DP.DPFriendsPairing",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPMinCostMazeTravel",
+            "request": "launch",
+            "mainClass": "DP.DPMinCostMazeTravel",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPaintFence",
+            "request": "launch",
+            "mainClass": "DP.DPPaintFence",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPaintHouse",
+            "request": "launch",
+            "mainClass": "DP.DPPaintHouse",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPaintHouseManyCol",
+            "request": "launch",
+            "mainClass": "DP.DPPaintHouseManyCol",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPaintHouseManyColor2",
+            "request": "launch",
+            "mainClass": "DP.DPPaintHouseManyColor2",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPPermutation",
+            "request": "launch",
+            "mainClass": "DP.DPPermutation",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPStock1Trnsc",
+            "request": "launch",
+            "mainClass": "DP.DPStock1Trnsc",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPStockBuy2Transc",
+            "request": "launch",
+            "mainClass": "DP.DPStockBuy2Transc",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPStockInfiniteTransc",
+            "request": "launch",
+            "mainClass": "DP.DPStockInfiniteTransc",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPStockWithCooldown",
+            "request": "launch",
+            "mainClass": "DP.DPStockWithCooldown",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPStockWithFee",
+            "request": "launch",
+            "mainClass": "DP.DPStockWithFee",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPTilingDomios2X1",
+            "request": "launch",
+            "mainClass": "DP.DPTilingDomios2X1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPTilingDomiosMX1",
+            "request": "launch",
+            "mainClass": "DP.DPTilingDomiosMX1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPUnbondKnapsak",
+            "request": "launch",
+            "mainClass": "DP.DPUnbondKnapsak",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPgoldMine",
+            "request": "launch",
+            "mainClass": "DP.DPgoldMine",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DPtargetSumSubset",
+            "request": "launch",
+            "mainClass": "DP.DPtargetSumSubset",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DpFib",
+            "request": "launch",
+            "mainClass": "DP.DpFib",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSumNonAdj",
+            "request": "launch",
+            "mainClass": "DP.MaxSumNonAdj",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PartitionIntoSubset",
+            "request": "launch",
+            "mainClass": "DP.PartitionIntoSubset",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dequque",
+            "request": "launch",
+            "mainClass": "Dequque",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DigitSum",
+            "request": "launch",
+            "mainClass": "DigitSum",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistinctChar",
+            "request": "launch",
+            "mainClass": "DistinctChar",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Domino",
+            "request": "launch",
+            "mainClass": "Domino",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch EgOnStack",
+            "request": "launch",
+            "mainClass": "EgOnStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvaluatePostfix",
+            "request": "launch",
+            "mainClass": "EvaluatePostfix",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch ByteArrayStream",
+            "request": "launch",
+            "mainClass": "IO.ByteArrayStream",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyFile",
+            "request": "launch",
+            "mainClass": "IO.CopyFile",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateFile",
+            "request": "launch",
+            "mainClass": "IO.CreateFile",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurrDirectory",
+            "request": "launch",
+            "mainClass": "IO.CurrDirectory",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputStream",
+            "request": "launch",
+            "mainClass": "IO.InputStream",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadFile",
+            "request": "launch",
+            "mainClass": "IO.ReadFile",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteFile",
+            "request": "launch",
+            "mainClass": "IO.WriteFile",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfixToPostfix",
+            "request": "launch",
+            "mainClass": "InfixToPostfix",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch M",
+            "request": "launch",
+            "mainClass": "M",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main4",
+            "request": "launch",
+            "mainClass": "Main4",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinUsingOneStack",
+            "request": "launch",
+            "mainClass": "MinUsingOneStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinUsingStack",
+            "request": "launch",
+            "mainClass": "MinUsingStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch My1",
+            "request": "launch",
+            "mainClass": "My1",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClint",
+            "request": "launch",
+            "mainClass": "MyClint",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyDLL",
+            "request": "launch",
+            "mainClass": "MyDLL",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyLinkedList",
+            "request": "launch",
+            "mainClass": "MyLinkedList",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyServer",
+            "request": "launch",
+            "mainClass": "MyServer",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch PriorityQue",
+            "request": "launch",
+            "mainClass": "PriorityQue",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueEg",
+            "request": "launch",
+            "mainClass": "QueueEg",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecurSortStack",
+            "request": "launch",
+            "mainClass": "RecurSortStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseStack",
+            "request": "launch",
+            "mainClass": "ReverseStack",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch SayNoToDrug",
+            "request": "launch",
+            "mainClass": "SayNoToDrug",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackBalanceExpre",
+            "request": "launch",
+            "mainClass": "StackBalanceExpre",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackEg",
+            "request": "launch",
+            "mainClass": "StackEg",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackInArray",
+            "request": "launch",
+            "mainClass": "StackInArray",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingLL",
+            "request": "launch",
+            "mainClass": "StackUsingLL",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingQueue",
+            "request": "launch",
+            "mainClass": "StackUsingQueue",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringComp",
+            "request": "launch",
+            "mainClass": "StringComp",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swayam",
+            "request": "launch",
+            "mainClass": "Swayam",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tram",
+            "request": "launch",
+            "mainClass": "Tram",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch binaryToDec",
+            "request": "launch",
+            "mainClass": "binaryToDec",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch decToBin",
+            "request": "launch",
+            "mainClass": "decToBin",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch demoString",
+            "request": "launch",
+            "mainClass": "demoString",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch fiba",
+            "request": "launch",
+            "mainClass": "fiba",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcdRcrsn",
+            "request": "launch",
+            "mainClass": "gcdRcrsn",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch luckyNo",
+            "request": "launch",
+            "mainClass": "luckyNo",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrixMul",
+            "request": "launch",
+            "mainClass": "matrixMul",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch mxmInArray",
+            "request": "launch",
+            "mainClass": "mxmInArray",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch pangram",
+            "request": "launch",
+            "mainClass": "pangram",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeInInterval",
+            "request": "launch",
+            "mainClass": "primeInInterval",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch sonRcrsn",
+            "request": "launch",
+            "mainClass": "sonRcrsn",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringPermut",
+            "request": "launch",
+            "mainClass": "stringPermut",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch timeString",
+            "request": "launch",
+            "mainClass": "timeString",
+            "projectName": "Java_23efc826"
+        },
+        {
+            "type": "java",
+            "name": "Launch upperLowerCase",
+            "request": "launch",
+            "mainClass": "upperLowerCase",
+            "projectName": "Java_23efc826"
+        }
+    ]
+}
